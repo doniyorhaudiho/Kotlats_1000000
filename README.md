@@ -1,5 +1,6 @@
-# Kotlats_1000000
-checking theory of Kotlats with number to million
+# Different Experiments an Data
+A lot of Data and  Experiments
 
-🔗 Data's Kotlats all files 1 to 1000000: [Download from Google Drive](https://drive.google.com/drive/folders/13KiYfa_XMSaWgpSyXRA5fenl3S7g5Mrd)
+📕Kotlats Hypothesis: [Kotlats Theory](https://en.wikipedia.org/wiki/Collatz_conjecture)
+🔗 Data's of steps in Hypothesis Kotlats, all files 1 to 1000000: [Download from Google Drive](https://drive.google.com/drive/folders/13KiYfa_XMSaWgpSyXRA5fenl3S7g5Mrd)
 
